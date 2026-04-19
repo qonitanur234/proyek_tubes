@@ -1,6 +1,6 @@
 services:
   app:
-    image: ghcr.io/username-github-kalian/laravel-cicd:latest
+    image: ghcr.io/qonitanur234/proyek_tubes:latest
     container_name: qonita_app
     restart: always
     ports:
